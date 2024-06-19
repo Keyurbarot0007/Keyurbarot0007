@@ -3,6 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keyurbarot0007&label=Profile%20views&color=0e75b6&style=flat" alt="keyurbarot0007" /> </p>
 
+Welcome to my GitHub profile! Here are my LeetCode stats:
+## LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/keyurbarot0007)
+
+<!-- ## GeeksforGeeks Stats
+
+![GFG Stats](https://gfgstats.com/user/keyurbarot0007) -->
+
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keyurbarot0007" alt="keyurbarot0007" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
